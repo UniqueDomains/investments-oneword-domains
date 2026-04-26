@@ -1,22 +1,22 @@
-# Available .INVESTMENTS One-Word Domains (9,361)
+# Available .INVESTMENTS One-Word Domains (11,791)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C361%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C361%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C791%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .investments one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .investments one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,791 domains** on the canonical page below.
 
-**Public extract:** 9,361 rows · **Live catalog:** 9,361 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,791 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/investments`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .INVESTMENTS one-word 
 
 ### Files
 
-- `investments.csv` — public CSV extract (9,361 rows)
-- `investments.json` — public JSON extract (9,361 rows)
+- `investments.csv` — public CSV extract (1,000 rows)
+- `investments.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| snap.investments     | available | $14.99    | $170.99       | 90             | 46     | 4      | name.com         |
-| impact.investments   | resell    | —         | —             | 92             | 73     | 6      | GoDaddy.com, LLC |
-| silver.investments   | premium   | $260      | $260          | 56             | 99     | 6      | namecheap        |
-| event.investments    | available | $166.98   | —             | 96             | 44     | 5      | namecheap        |
-| boss.investments     | resell    | —         | —             | 76             | 73     | 4      | Spaceship, Inc.  |
-| power.investments    | premium   | $260      | $260          | 98             | 62     | 5      | namecheap        |
-| pop.investments      | available | $14.99    | $170.99       | 82             | 44     | 3      | name.com         |
-| tesla.investments    | resell    | —         | —             | 86             | 61     | 5      | Dynadot Inc      |
-| ace.investments      | premium   | $128.70   | $128.70       | 88             | 57     | 3      | namecheap        |
-| creator.investments  | available | $14.99    | $170.99       | 70             | 43     | 7      | name.com         |
-| code.investments     | resell    | —         | —             | 72             | 61     | 4      | Spaceship, Inc.  |
-| good.investments     | premium   | $128.70   | $128.70       | 82             | 55     | 4      | namecheap        |
-| nice.investments     | available | $14.99    | $170.99       | 86             | 42     | 4      | name.com         |
-| industry.investments | resell    | —         | —             | 68             | 61     | 8      | Sav.com, LLC     |
-| fast.investments     | premium   | $500      | $500          | 82             | 52     | 4      | name.com         |
-| agile.investments    | available | $14.99    | $170.99       | 92             | 41     | 5      | name.com         |
-| mail.investments     | resell    | —         | —             | 94             | 59     | 4      | NameCheap, Inc.  |
-| one.investments      | premium   | $250      | $250          | 132            | 50     | 3      | name.com         |
-| order.investments    | available | $14.99    | $170.99       | 78             | 40     | 5      | name.com         |
-| free.investments     | resell    | —         | —             | 88             | 57     | 4      | Dynadot Inc      |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| skills.investments    | available | $14.99    | —             | 58             | 47     | 6      | name.com        |
+| WiFi.investments      | resell    | —         | —             | 83             | 37     | 5      | Spaceship, Inc. |
+| homes.investments     | premium   | $250      | —             | 86             | 34     | 5      | name.com        |
+| matcha.investments    | available | $14.99    | —             | 86             | 39     | 6      | name.com        |
+| chatbot.investments   | resell    | —         | —             | 82             | 36     | 7      | Spaceship, Inc. |
+| partners.investments  | premium   | $138.60   | $138.60       | 61             | 32     | 8      | namecheap       |
+| lets.investments      | available | $14.99    | —             | 77             | 39     | 4      | name.com        |
+| awaken.investments    | resell    | —         | —             | 76             | 26     | 6      | Spaceship, Inc. |
+| solutions.investments | premium   | $250      | —             | 56             | 31     | 9      | name.com        |
+| justin.investments    | available | $14.99    | —             | 58             | 38     | 7      | name.com        |
+| companies.investments | premium   | $250      | —             | 62             | 16     | 9      | name.com        |
+| stories.investments   | available | $14.99    | —             | 58             | 36     | 7      | name.com        |
+| longterm.investments  | premium   | $250      | —             | 72             | 10     | 9      | name.com        |
+| Cats.investments      | available | $166.98   | —             | 59             | 33     | 4      | namecheap       |
+| dataentry.investments | premium   | $138.60   | $138.60       | 72             | 6      | 10     | namecheap       |
+| payments.investments  | available | $14.99    | —             | 58             | 33     | 8      | name.com        |
+| theories.investments  | premium   | $138.60   | $138.60       | 58             | 6      | 8      | namecheap       |
+| teams.investments     | available | $14.99    | —             | 62             | 32     | 5      | name.com        |
+| spaces.investments    | available | $14.99    | —             | 54             | 30     | 6      | name.com        |
+| videos.investments    | available | $14.99    | —             | 52             | 30     | 6      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,361-row public sample | 9,361 live domains                               |
+| 1,000-row public sample | 11,791 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INVESTMENTS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INVESTMENTS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
