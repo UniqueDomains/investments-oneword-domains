@@ -734,7 +734,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 40292952-eae3-42ce-8c5d-74ab42b74bdf,overstatement.investments,available,14.99,,54,2,13,name.com,,
 4034dd7c-bd16-4311-bb82-7d7d0b0e0a08,chapstick.investments,available,14.99,,78,5,9,name.com,,
 404f59f5-69d4-4d90-847f-fd248186df54,turningback.investments,available,14.99,,53,2,12,name.com,,
-40530534-0319-465f-8f2e-b7e6d4331d9d,chatbot.investments,resell,,,82,36,7,"Spaceship, Inc.",15/09/2025 18:39,15/09/2026 18:39
+40530534-0319-465f-8f2e-b7e6d4331d9d,chatbot.investments,resell,,,82,40,7,"Spaceship, Inc.",15/09/2025 18:39,15/09/2026 18:39
 405c30bf-9901-47a6-9dcc-2f37ea544ada,letusgo.investments,available,14.99,,57,4,9,name.com,,
 40636134-1e4a-4fd8-9ffe-6ce50abf1eff,paused.investments,available,14.99,,56,6,6,name.com,,
 40676300-d695-40da-8a50-4b7ab61a6062,finalfrontier.investments,available,14.99,,76,7,14,name.com,,

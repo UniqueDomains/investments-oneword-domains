@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .investments one-word domai
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,330 domains · **Median ask:** $32.87 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-09  
+**Last updated:** 2026-05-11  
 **Canonical page:** `https://unique.domains/domains/tld/investments`  
 **Best for:** founders, investors, studios
 
@@ -73,9 +73,9 @@ print(df.head())
 | leaveon.investments   | available | $14.99    | —             | 80             | 1      | 8      | name.com        |
 | messages.investments  | available | $14.99    | —             | 80             | 16     | 8      | name.com        |
 | skills.investments    | available | $14.99    | —             | 58             | 47     | 6      | name.com        |
-| WiFi.investments      | resell    | —         | —             | 83             | 37     | 5      | Spaceship, Inc. |
+| chatbot.investments   | resell    | —         | —             | 82             | 40     | 7      | Spaceship, Inc. |
 | homes.investments     | premium   | $250      | —             | 86             | 34     | 5      | name.com        |
-| chatbot.investments   | resell    | —         | —             | 82             | 36     | 7      | Spaceship, Inc. |
+| WiFi.investments      | resell    | —         | —             | 83             | 37     | 5      | Spaceship, Inc. |
 | companies.investments | premium   | $250      | —             | 62             | 16     | 9      | name.com        |
 | Cats.investments      | available | $166.98   | —             | 59             | 33     | 4      | namecheap       |
 | awaken.investments    | resell    | —         | —             | 76             | 26     | 6      | Spaceship, Inc. |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INVESTMENTS One-Word Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INVESTMENTS One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
