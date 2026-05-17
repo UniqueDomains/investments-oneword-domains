@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .investments one-word domai
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,331 domains · **Median ask:** $32.87 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/investments`  
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | girls.investments     | available | $14.99    | —             | 83             | 23     | 5      | name.com        |
 | finals.investments    | available | $14.99    | —             | 80             | 7      | 6      | name.com        |
-| getup.investments     | available | $14.99    | —             | 82             | 14     | 6      | name.com        |
+| getup.investments     | available | $14.99    | —             | 82             | 15     | 6      | name.com        |
 | matcha.investments    | available | $14.99    | —             | 86             | 39     | 6      | name.com        |
 | playon.investments    | available | $14.99    | —             | 80             | 14     | 7      | name.com        |
 | QandA.investments     | available | $166.98   | —             | 80             | 10     | 7      | namecheap       |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INVESTMENTS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INVESTMENTS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
