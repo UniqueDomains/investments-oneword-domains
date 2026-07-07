@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .investments one-word domai
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,331 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,331 domains · **Median ask:** $32.87 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,331 domains · **Median ask:** $28.93 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/investments`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/investments`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .INVESTMENTS one-word 
 
 ### Files
 
-- `investments.csv` — public CSV extract (1,000 rows)
-- `investments.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `investments.csv`, public CSV extract (1,000 rows)
+- `investments.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| girls.investments     | available | $14.99    | —             | 83             | 23     | 5      | name.com        |
-| finals.investments    | available | $14.99    | —             | 80             | 7      | 6      | name.com        |
-| getup.investments     | available | $14.99    | —             | 82             | 15     | 6      | name.com        |
-| matcha.investments    | available | $14.99    | —             | 86             | 39     | 6      | name.com        |
-| playon.investments    | available | $14.99    | —             | 80             | 14     | 7      | name.com        |
-| QandA.investments     | available | $166.98   | —             | 80             | 10     | 7      | namecheap       |
-| leaveon.investments   | available | $14.99    | —             | 80             | 1      | 8      | name.com        |
-| messages.investments  | available | $14.99    | —             | 80             | 16     | 8      | name.com        |
-| skills.investments    | available | $14.99    | —             | 58             | 47     | 6      | name.com        |
-| chatbot.investments   | resell    | —         | —             | 82             | 40     | 7      | Spaceship, Inc. |
-| homes.investments     | premium   | $250      | —             | 86             | 34     | 5      | name.com        |
-| WiFi.investments      | resell    | —         | —             | 83             | 37     | 5      | Spaceship, Inc. |
-| companies.investments | premium   | $250      | —             | 62             | 16     | 9      | name.com        |
-| Cats.investments      | available | $166.98   | —             | 59             | 33     | 4      | namecheap       |
-| awaken.investments    | resell    | —         | —             | 76             | 26     | 6      | Spaceship, Inc. |
-| longterm.investments  | premium   | $250      | —             | 72             | 10     | 9      | name.com        |
-| payments.investments  | available | $14.99    | —             | 58             | 33     | 8      | name.com        |
-| dataentry.investments | premium   | $138.60   | $138.60       | 72             | 6      | 10     | namecheap       |
-| teams.investments     | available | $14.99    | —             | 62             | 32     | 5      | name.com        |
-| theories.investments  | premium   | $138.60   | $138.60       | 58             | 6      | 8      | namecheap       |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| ago.investments    | available | $14.99    | $170.99       | medium         | low    | 3      | name.com                                                  |
+| moon.investments   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 39                                         |
+| ash.investments    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
+| axe.investments    | available | $14.99    | —             | medium         | low    | 3      | name.com                                                  |
+| shop.investments   | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| bar.investments    | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                  |
+| ive.investments    | available | $14.99    | —             | medium         | low    | 3      | name.com                                                  |
+| block.investments  | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.                                           |
+| bed.investments    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| lay.investments    | available | $14.99    | —             | medium         | low    | 3      | name.com                                                  |
+| forge.investments  | resell    | —         | —             | medium         | medium | 5      | Spaceship, Inc.                                           |
+| bra.investments    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
+| lcd.investments    | available | $14.99    | —             | high           | low    | 3      | name.com                                                  |
+| print.investments  | resell    | —         | —             | high           | medium | 5      | InterNetX GmbH                                            |
+| cue.investments    | premium   | $138.60   | $138.60       | medium         | low    | 3      | namecheap                                                 |
+| lie.investments    | available | $14.99    | —             | medium         | low    | 3      | name.com                                                  |
+| tesla.investments  | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                               |
+| DIY.investments    | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
+| nun.investments    | available | $14.99    | —             | medium         | low    | 3      | name.com                                                  |
+| rocket.investments | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 27                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names on the .investments extension. The set mixes dictionary words, broader category words, and shorter invented terms such as Acup.investments, Trex.investments, girls.investments, and forces.investments. For founders, the main question is whether the word feels credible enough to carry an investment brand without extra explanation. For investors, the focus is whether the term is commercially legible and priced in a way that leaves room for resale. When comparing these domains, start with word quality, then check whether the term is broad, memorable, easy to say, and appropriate for a finance-related use case.
+This selection covers one-word and short-phrase .investments domain names drawn from a pool of 12,331 options. Names range from direct action phrases like useit and fitinto to thematic terms like homes, solarpower, and coffeewoman, giving a wide spread of tone across the finance-focused TLD. Median asking price across the set sits near $29, making it easy to compare options quickly when narrowing down a name.
 
-- Prefer words that sound credible in a finance context
-- Short, clear terms are easier to remember and repeat
-- Check if the ask fits your resale or launch budget
-- Avoid words that may create trademark confusion
+- 12,331 one-word .investments domains in this list
+- Median asking price near $29 across the set
+- Mix of action phrases and thematic single words
+- Updated daily to reflect current .investments inventory
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INVESTMENTS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INVESTMENTS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
