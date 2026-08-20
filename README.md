@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .investments one-word domai
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,229 domains · **Median ask:** $20.71 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/investments`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| ago.investments    | available | $14.99    | $170.99       | medium         | low    | 3      | name.com                                                  |
-| moon.investments   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 39                                         |
-| ash.investments    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
-| ain.investments    | available | $6.98     | $166.98       | low            | low    | 3      | namecheap                                                 |
-| shop.investments   | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| bar.investments    | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                  |
-| axe.investments    | available | $14.99    | —             | medium         | low    | 3      | name.com                                                  |
-| block.investments  | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.                                           |
-| bed.investments    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| ive.investments    | available | $14.99    | —             | medium         | low    | 3      | name.com                                                  |
-| forge.investments  | resell    | —         | —             | medium         | medium | 5      | Spaceship, Inc.                                           |
-| bra.investments    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
-| lay.investments    | available | $14.99    | —             | medium         | low    | 3      | name.com                                                  |
-| print.investments  | resell    | —         | —             | high           | medium | 5      | InterNetX GmbH                                            |
-| cue.investments    | premium   | $138.60   | $138.60       | medium         | low    | 3      | namecheap                                                 |
-| lcd.investments    | available | $14.99    | —             | high           | low    | 3      | name.com                                                  |
-| tesla.investments  | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                               |
-| DIY.investments    | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
-| lie.investments    | available | $14.99    | —             | medium         | low    | 3      | name.com                                                  |
-| rocket.investments | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 27                                         |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| just.investments  | premium   | $500      | —             | high           | medium | 4      | name.com                                                  |
+| okay.investments  | available | $14.99    | $170.99       | high           | low    | 4      | name.com                                                  |
+| clean.investments | available | —         | —             | high           | high   | 5      | —                                                         |
+| time.investments  | premium   | $242      | $242          | high           | medium | 4      | namesilo                                                  |
+| ago.investments   | available | $14.99    | $170.99       | medium         | low    | 3      | name.com                                                  |
+| moon.investments  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 39                                         |
+| ash.investments   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
+| ain.investments   | available | $6.98     | $166.98       | low            | low    | 3      | namecheap                                                 |
+| shop.investments  | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| bar.investments   | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                  |
+| axe.investments   | available | $14.99    | —             | medium         | low    | 3      | name.com                                                  |
+| block.investments | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.                                           |
+| bed.investments   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| ive.investments   | available | $14.99    | —             | medium         | low    | 3      | name.com                                                  |
+| forge.investments | resell    | —         | —             | medium         | medium | 5      | Spaceship, Inc.                                           |
+| bra.investments   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
+| lay.investments   | available | $14.99    | —             | medium         | low    | 3      | name.com                                                  |
+| print.investments | resell    | —         | —             | high           | medium | 5      | InterNetX GmbH                                            |
+| cue.investments   | premium   | $138.60   | $138.60       | medium         | low    | 3      | namecheap                                                 |
+| lcd.investments   | available | $14.99    | —             | high           | low    | 3      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INVESTMENTS One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INVESTMENTS One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
