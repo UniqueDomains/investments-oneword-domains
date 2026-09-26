@@ -1,10 +1,10 @@
-# Available .INVESTMENTS One-Word Domains (32,242)
+# Available .INVESTMENTS One-Word Domains (22,515)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C242%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C515%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .investments one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,242 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,515 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,242 domains · **Median ask:** $15.53 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 22,515 domains · **Median ask:** $18.22 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/investments`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| ain.investments     | available | $6.98     | $166.98       | high           | low    | 3      | namecheap         |
-| did.investments     | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC      |
-| aid.investments     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
-| axe.investments     | available | $14.99    | —             | high           | low    | 3      | name.com          |
-| moon.investments    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 39 |
-| ash.investments     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
-| bce.investments     | available | $14.99    | —             | high           | low    | 3      | name.com          |
-| block.investments   | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.   |
-| ate.investments     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
-| clx.investments     | available | $6.98     | $166.98       | high           | low    | 3      | namecheap         |
-| print.investments   | resell    | —         | —             | high           | medium | 5      | InterNetX GmbH    |
-| bar.investments     | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
-| cnn.investments     | available | $14.99    | —             | high           | low    | 3      | name.com          |
-| tesla.investments   | resell    | —         | —             | high           | medium | 5      | Dynadot Inc       |
-| bed.investments     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
-| eid.investments     | available | $14.99    | —             | high           | low    | 3      | name.com          |
-| rocket.investments  | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 27 |
-| ben.investments     | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
-| hic.investments     | available | $14.99    | —             | high           | low    | 3      | name.com          |
-| success.investments | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| auk.investments   | available | $6.98     | $166.98       | high           | low    | 3      | namecheap         |
+| bud.investments   | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.   |
+| ben.investments   | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
+| dud.investments   | available | $6.98     | $166.98       | high           | low    | 3      | namecheap         |
+| clay.investments  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
+| bid.investments   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| ilx.investments   | available | $6.98     | $166.98       | medium         | low    | 3      | namecheap         |
+| free.investments  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| fin.investments   | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
+| lav.investments   | available | $6.98     | $166.98       | high           | low    | 3      | namecheap         |
+| pool.investments  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
+| gar.investments   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo          |
+| moo.investments   | available | $6.98     | $166.98       | high           | low    | 3      | namecheap         |
+| sail.investments  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
+| hot.investments   | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
+| nwo.investments   | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| sell.investments  | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.   |
+| idk.investments   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo          |
+| pbs.investments   | available | $12.99    | $129.99       | high           | low    | 3      | namesilo          |
+| build.investments | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 37 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,242 live domains                        |
+| 1,000-row public sample | 22,515 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 3 high-demand names under $2,500           |
+| Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INVESTMENTS One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INVESTMENTS One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
