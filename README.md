@@ -1,10 +1,10 @@
-# Available .INVESTMENTS One-Word Domains (31,987)
+# Available .INVESTMENTS One-Word Domains (34,257)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C987%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-34%2C257%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .investments one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,987 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **34,257 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,987 domains · **Median ask:** $20.12 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 34,257 domains · **Median ask:** $20.39 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/investments`
 **Best for:** founders, investors, studios
 
@@ -76,13 +76,13 @@ print(df.head())
 | chp.investments    | available | $6.41     | $103.70       | medium         | low    | 3      | spaceship       |
 | pool.investments   | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc. |
 | fur.investments    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
-| csx.investments    | available | $6.41     | $103.70       | high           | low    | 3      | spaceship       |
+| clr.investments    | available | $100.20   | $100.20       | high           | low    | 3      | cloudflare      |
 | sail.investments   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
 | hot.investments    | premium   | $242      | $242          | high           | medium | 3      | namesilo        |
-| cvp.investments    | available | $12.99    | $129.99       | high           | low    | 3      | namesilo        |
+| csx.investments    | available | $6.41     | $103.70       | high           | low    | 3      | spaceship       |
 | forum.investments  | resell    | —         | —             | high           | medium | 5      | —               |
 | kid.investments    | premium   | $242      | $242          | high           | low    | 3      | namesilo        |
-| dat.investments    | available | $12       | —             | high           | low    | 3      | unstoppable     |
+| cvp.investments    | available | $12.99    | $129.99       | high           | low    | 3      | namesilo        |
 | global.investments | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,987 live domains                        |
+| 1,000-row public sample | 34,257 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INVESTMENTS One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INVESTMENTS One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
